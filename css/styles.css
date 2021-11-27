@@ -85,14 +85,9 @@ p{
   position: relative;
 }
 
-#feature .container-fluid {
-  /* padding: 7% 15% 7%; */
-  padding: 15%;
-}
 
 .feature-box{
   padding: 4.5%;
-  /* padding: 15px; */
 }
 .feature-title{
   font-size: 1.5rem;
