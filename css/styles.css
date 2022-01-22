@@ -13,6 +13,8 @@ p{
 
 }
 
+
+/* title section */
 .coloured-section{
   background-color: #ff4c68;
   color: #fff;
@@ -111,3 +113,10 @@ p{
   border-radius: 100%;
   margin: 20px;
 }
+
+/* press section */
+#press{}
+
+.press-logo{}
+
+
