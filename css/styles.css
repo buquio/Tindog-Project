@@ -114,9 +114,33 @@ p{
   margin: 20px;
 }
 
+
+
 /* press section */
 #press{}
 
 .press-logo{}
+
+
+
+/* Pricing section */
+
+#pricing{}
+
+
+.row{}
+
+.pricing-column{}
+
+
+/* Call to Action section */
+#cta{}
+
+
+/* Footer  */
+#footer{}
+
+
+
 
 
