@@ -36,6 +36,7 @@ p{
   padding: 7% 15%;
 }
 
+/* Title navbar */
 .navbar{
   padding: 0 0 4.5rem;
 }
@@ -58,6 +59,7 @@ p{
 }
 
 
+/* Title Row */
 .row{}
 
 .big-heading{
@@ -78,6 +80,8 @@ p{
   right: 30%;
 }
 
+
+
 /* <!-- Features section --> */
 .white-section{
   background-color: #fff;
@@ -87,13 +91,25 @@ p{
   position: relative;
 }
 
-
 .feature-box{
   padding: 4.5%;
 }
 .feature-title{
   font-size: 1.5rem;
 }
+.icon {
+  /* color: #ef8172; */
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  /* color: #ff4c68; */
+    color: #ef8172;
+
+}
+
+
 
 
 /* testimonial section */
@@ -117,9 +133,16 @@ p{
 
 
 /* press section */
-#press{}
+#press{
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+}
 
-.press-logo{}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+
+}
 
 
 
