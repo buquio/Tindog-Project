@@ -1,11 +1,11 @@
 body{
     text-align: center;
-    font-family: 'Montserrat';
+    font-family: "Montserrat";
 
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family: 'Montserrat-bold';
+    font-family: "Montserrat-bold";
 }
 
 p{
@@ -41,7 +41,8 @@ p{
   padding: 0 0 4.5rem;
 }
 
-.navbar-brand{font-family: "Ubuntu";
+.navbar-brand{
+  font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -148,7 +149,10 @@ p{
 
 /* Pricing section */
 
-#pricing{}
+#pricing{
+  padding: 100px;
+
+}
 
 
 .row{}
