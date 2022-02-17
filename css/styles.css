@@ -18,14 +18,12 @@ p{
 .coloured-section{
   background-color: #ff4c68;
   color: #fff;
-
 }
 
 #title{
   background-color: #ff4c68;
   color: #fff;
   text-align: left;
-
 }
 
 #title .container-fluid {
@@ -95,9 +93,7 @@ p{
 .feature-box{
   padding: 4.5%;
 }
-.feature-title{
-  font-size: 1.5rem;
-}
+
 .icon {
   /* color: #ef8172; */
   color: #ff4c68;
@@ -110,7 +106,9 @@ p{
 
 }
 
-
+.feature-title{
+  font-size: 1.5rem;
+}
 
 
 /* testimonial section */
@@ -151,23 +149,43 @@ p{
 
 #pricing{
   padding: 100px;
+}
+
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
 
 }
 
-
 .row{}
 
-.pricing-column{}
+.pricing-column{
+  padding: 3% 2%;
+
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
 
 
 /* Call to Action section */
 #cta{}
 
 
+
+
+
 /* Footer  */
 #footer{}
 
 
+.social-icon {
+  margin: 20px 10px;
+}
 
 
 
