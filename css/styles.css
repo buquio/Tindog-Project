@@ -26,9 +26,9 @@ p{
   text-align: left;
 }
 
-#title .container-fluid {
+/* #title .container-fluid {
   padding: 2% 15% 7%;
-}
+} */
 
 .container-fluid{
   padding: 7% 15%;
@@ -43,6 +43,7 @@ p{
   font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
+
 }
 
 .navbar-nav{}
